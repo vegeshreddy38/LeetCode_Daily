@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [3668-restore-finishing-order](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/0032-longest-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [3668-restore-finishing-order](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3668-restore-finishing-order) |
 <!---LeetCode Topics End-->
