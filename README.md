@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/0014-longest-common-prefix) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3668-restore-finishing-order) |
 ## Counting
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
