@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/0027-remove-element) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3668-restore-finishing-order) |
 ## Counting
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
