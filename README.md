@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2409-count-days-spent-together](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2409-count-days-spent-together) |
 | [3146-permutation-difference-between-two-strings](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3146-permutation-difference-between-two-strings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Stack
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2409-count-days-spent-together](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2409-count-days-spent-together) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3945-digit-frequency-score](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3945-digit-frequency-score) |
