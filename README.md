@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3146-permutation-difference-between-two-strings) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3162-find-the-number-of-good-pairs-i) |
