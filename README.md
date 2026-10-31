@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2325-decode-the-message](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2325-decode-the-message) |
 | [2409-count-days-spent-together](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2409-count-days-spent-together) |
 | [3146-permutation-difference-between-two-strings](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3146-permutation-difference-between-two-strings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2325-decode-the-message](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2325-decode-the-message) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
