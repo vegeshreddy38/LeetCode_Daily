@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2409-count-days-spent-together](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2409-count-days-spent-together) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/0027-remove-element) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
