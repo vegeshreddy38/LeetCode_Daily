@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-decode-the-message](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2325-decode-the-message) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3164-find-the-number-of-good-pairs-ii](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3164-find-the-number-of-good-pairs-ii) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2747-count-zero-request-servers](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2747-count-zero-request-servers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Indexed Tree
 |  |
@@ -134,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/0238-product-of-array-except-self) |
+## Sliding Window
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2747-count-zero-request-servers) |
 <!---LeetCode Topics End-->
