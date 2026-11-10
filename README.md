@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2325-decode-the-message](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2325-decode-the-message) |
+| [2367-number-of-arithmetic-triplets](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2367-number-of-arithmetic-triplets) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2747-count-zero-request-servers) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2367-number-of-arithmetic-triplets) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2747-count-zero-request-servers) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/0027-remove-element) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2367-number-of-arithmetic-triplets](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2367-number-of-arithmetic-triplets) |
 ## Sorting
 |  |
 | ------- |
@@ -145,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2747-count-zero-request-servers) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
