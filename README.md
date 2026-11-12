@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3164-find-the-number-of-good-pairs-ii](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3164-find-the-number-of-good-pairs-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
