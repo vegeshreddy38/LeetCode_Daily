@@ -1,0 +1,26 @@
+class Solution {
+public:
+    int minimumSumSubarray(vector<int>& nums, int l, int r) {
+        
+        int n=nums.size();
+        int res=INT_MAX;
+        bool isfound=false;
+        for(int i=0;i<=n-l;i++){
+            int sum=0;
+            for(int j=i;j<n;j++){
+                sum+=nums[j];
+                if((j-i+1 >= l)  &&  (j-i+1 <= r) && sum > 0){
+                    res=min(res,sum);
+                    isfound=true;
+                }
+                if(j-i+1 > r){
+                    break;
+                }
+            }
+        }
+        if(isfound)
+           return res;
+        else 
+           return -1;
+    }
+};
