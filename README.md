@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3164-find-the-number-of-good-pairs-ii](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3164-find-the-number-of-good-pairs-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3364-minimum-positive-sum-subarray](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3364-minimum-positive-sum-subarray) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3668-restore-finishing-order](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3668-restore-finishing-order) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -151,10 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/0238-product-of-array-except-self) |
+| [3364-minimum-positive-sum-subarray](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sliding Window
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3364-minimum-positive-sum-subarray) |
 ## Enumeration
 |  |
 | ------- |
