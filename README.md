@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2325-decode-the-message](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2325-decode-the-message) |
 | [2409-count-days-spent-together](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2418-sort-the-people) |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2367-number-of-arithmetic-triplets) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
