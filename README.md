@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2418-sort-the-people) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2747-count-zero-request-servers) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2418-sort-the-people) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2747-count-zero-request-servers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Indexed Tree
