@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/1352-product-of-the-last-k-numbers) |
 | [2409-count-days-spent-together](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2409-count-days-spent-together) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0804-unique-morse-code-words](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/0804-unique-morse-code-words) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1352-product-of-the-last-k-numbers](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/0238-product-of-array-except-self) |
+| [1352-product-of-the-last-k-numbers](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/1352-product-of-the-last-k-numbers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sliding Window
 |  |
@@ -176,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/vegeshreddy38/LeetCode_Daily/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
